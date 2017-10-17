@@ -18,3 +18,13 @@ Week 2
     c) https://www.tensorflow.org/get_started/mnist/beginners
     
     d) http://adventuresinmachinelearning.com/python-tensorflow-tutorial/
+
+Week 3
+
+Autoencoders - a) https://www.youtube.com/watch?v=FzS3tMl4Nsc
+
+               b) http://www.deeplearningbook.org/contents/autoencoders.html
+               
+               c) https://medium.com/towards-data-science/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad
+               
+               d) http://www.shogun-toolbox.org/static/notebook/current/autoencoders.html
