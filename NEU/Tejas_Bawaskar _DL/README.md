@@ -21,10 +21,11 @@ Week 2
 
 Week 3
 
-Autoencoders - a) https://www.youtube.com/watch?v=FzS3tMl4Nsc
+Autoencoders - 
+   a) https://www.youtube.com/watch?v=FzS3tMl4Nsc
 
-               b) http://www.deeplearningbook.org/contents/autoencoders.html
+   b) http://www.deeplearningbook.org/contents/autoencoders.html
                
-               c) https://medium.com/towards-data-science/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad
+   c) https://medium.com/towards-data-science/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad
                
-               d) http://www.shogun-toolbox.org/static/notebook/current/autoencoders.html
+   d) http://www.shogun-toolbox.org/static/notebook/current/autoencoders.html
