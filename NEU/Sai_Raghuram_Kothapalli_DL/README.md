@@ -8,5 +8,9 @@ WEEK 2 ->   a. Solving the tensorflow installation issues (very annoying and tim
             from TensorFlow's official website
 
             c. TensorFlow implemetation on MNIST dataset. 
+            
+            d. Tensorflow with Multilayer Perception
 
-to be done  d. Keras basics and  its implementation.     
+WEEK 3 ->   a. Keras basics and  its implementation.    
+
+            b. Basics of Autoencoders
