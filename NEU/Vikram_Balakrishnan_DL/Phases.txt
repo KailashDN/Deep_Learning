@@ -1,14 +1,21 @@
 # Deep_Learning 
 
-Phase 1
+Phase 0
 
   - Objective
     - Install tf
-    - Familiarize tf with tutorials
+    - Familiarize with tf framework and basics with exercises
+      - http://learningtensorflow.com/
+      
+Phase 1
+
+  - Objective
+    - Complete tf with tutorials
       - https://www.tensorflow.org/get_started/get_started
       - https://www.tensorflow.org/get_started/mnist/beginners
       - https://www.tensorflow.org/get_started/mnist/pros
-    - Should be familiar with tf-framework and comfortable in understanding tf code.
+    - Theoretical understanding of CNN
+    
      
   - Steps
     - Validate installation of tensorflow 'validate_tensorflow.py'
@@ -30,8 +37,3 @@ Phase 2
     - Build model
     - Tweak model / no. of layers / learning rate / error function / 
 
-Phase 3
-
-  - Objective
-    - Install Keras
-    - Familiarize Keras with tutorials
