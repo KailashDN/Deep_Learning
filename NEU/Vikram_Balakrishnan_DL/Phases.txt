@@ -1,0 +1,39 @@
+# Deep_Learning 
+
+Phase 0
+
+  - Objective
+    - Install tf
+    - Familiarize with tf framework and basics with exercises
+      - http://learningtensorflow.com/
+      
+Phase 1
+
+  - Objective
+    - Complete tf with tutorials
+      - https://www.tensorflow.org/get_started/get_started
+      - https://www.tensorflow.org/get_started/mnist/beginners
+      - https://www.tensorflow.org/get_started/mnist/pros
+    - Theoretical understanding of CNN
+    
+     
+  - Steps
+    - Validate installation of tensorflow 'validate_tensorflow.py'
+    - Understand, run, tweak 'tf_core.py' 
+    - Understand, run, tweak 'tf_estimator.py'
+    - Understand, run, tweak, 'mnist_beginner_softmax.py'
+    - Get a sense of the data-set MNIST 'view_MNIST_data.py'
+    - Understand, run, tweak, 'mnist_expert_softmax.py'
+
+Phase 2
+
+  - Objective
+    - Use a new dataset with code from phase 1 as a template
+    - Should be able to work with nay generic image data-set by end of this phase
+   
+   - Steps
+    - Identify a new data-set (CIFAR 10)
+    - Prepare data-set
+    - Build model
+    - Tweak model / no. of layers / learning rate / error function / 
+

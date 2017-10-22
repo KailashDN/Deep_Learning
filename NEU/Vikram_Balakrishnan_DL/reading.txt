@@ -1,0 +1,18 @@
+This file contains links to all of the online material read for conceptual understanding
+
+Tensorflow:
+1. https://www.tensorflow.org/get_started/
+2. https://www.tensorflow.org/get_started/get_started
+3. https://www.tensorflow.org/get_started/mnist/beginners
+4. https://www.tensorflow.org/get_started/mnist/pros
+
+Keras:
+1. https://keras.io/#keras-the-python-deep-learning-library
+2. https://keras.io/getting-started/sequential-model-guide/
+
+CNN
+1. http://textminingonline.com/dive-into-tensorflow-part-v-deep-mnist
+2. http://cs231n.github.io/convolutional-networks/
+
+Variational auto-encoders
+1. http://kvfrans.com/variational-autoencoders-explained/
