@@ -140,7 +140,7 @@ For those interested we created a Deep Learning Slack
 37. [Berkeley AI Research (BAIR) Laboratory](https://arxiv.org/pdf/1611.07004v1.pdf) 
 38. [MobileNets by Google](https://arxiv.org/abs/1704.04861)
 39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
-
+40. [Deep Learning Recommenders papers / frameworks / libraries](https://github.com/zehsilva/recsys-deeplearning-info)
 
 
 ### Tutorials
@@ -249,7 +249,7 @@ For those interested we created a Deep Learning Slack
 61. [Image Database](http://www.prip.tuwien.ac.at/prip/image.html) - An image database including some textures  
 62. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html) - The JAFFE database consists of 213 images of Japanese female subjects posing 6 basic facial expressions as well as a neutral pose. Ratings on emotion adjectives are also available, free of charge, for research purposes. (Formats: TIFF Grayscale images.) 
 63. [ATR Research, Kyoto, Japan](http://www.mic.atr.co.jp/)
-64. [JISCT Stereo Evaluation](ftp://ftp.vislist.com/IMAGERY/JISCT/) - 44 image pairs. These data have been used in an evaluation of stereo analysis, as described in the April 1993 ARPA Image Understanding Workshop paper ``The JISCT Stereo Evaluation'' by R.C.Bolles, H.H.Baker, and M.J.Hannah, 263--274 (Formats: SSI) 
+64. [JISCT Stereo Evaluation](ftp://ftp.vislist.com/IMAGERY/JISCT/) - 44 image pairs. These data have been used in an evaluation of stereo analysis, as described in the April 1993 ARPA Image Understanding Workshop paper *The JISCT Stereo Evaluation* by R.C.Bolles, H.H.Baker, and M.J.Hannah, 263--274 (Formats: SSI) 
 65. [MIT Vision Texture](http://www-white.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - Image archive (100+ images) (Formats: ppm)
 66. [MIT face images and more](ftp://whitechapel.media.mit.edu/pub/images) - hundreds of images (Formats: homebrew) 
 67. [Machine Vision](http://vision.cse.psu.edu/book/testbed/images/) - Images from the textbook by Jain, Kasturi, Schunck (20+ images) (Formats: GIF TIFF)
