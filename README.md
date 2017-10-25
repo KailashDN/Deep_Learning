@@ -163,6 +163,8 @@ For those interested we created a Deep Learning Slack
 15. [Classification on raw time series in TensorFlow with a LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
 16. [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 17. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World)
+18. [Generative Adversarial Networks](https://github.com/wiseodd/generative-models)
+
 
 ### WebSites
 
