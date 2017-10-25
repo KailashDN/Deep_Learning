@@ -8,7 +8,7 @@ For those interested we created a Deep Learning Slack
 [https://join.slack.com/t/fatweasel/signup](https://join.slack.com/t/fatweasel/signup)  
 
 
-
+-----
 ## Table of Contents
 
 * **[Free Online Books](#free-online-books)**  
@@ -31,6 +31,7 @@ For those interested we created a Deep Learning Slack
 
 * **[License](#License)** 
 
+-----
 ### Free Online Books
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
@@ -42,6 +43,7 @@ For those interested we created a Deep Learning Slack
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
  
+-----
 ### Courses
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
@@ -74,7 +76,7 @@ For those interested we created a Deep Learning Slack
 26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 
-
+-----
 ### Videos and Lectures
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
@@ -97,7 +99,7 @@ For those interested we created a Deep Learning Slack
 18. [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016
 19. [Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
-
+-----
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
 
@@ -106,27 +108,27 @@ For those interested we created a Deep Learning Slack
 3.  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
 4.  [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
 5.  [Neural Networks for Named Entity Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
-6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
-7. [Geoff Hinton's reading list (all papers)](http://www.cs.toronto.edu/~hinton/deeprefs.html)
-8. [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/preprint.pdf)
+6.  [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
+7.  [Geoff Hinton's reading list (all papers)](http://www.cs.toronto.edu/~hinton/deeprefs.html)
+8.  [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/preprint.pdf)
 9.  [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
-10.  [Training Recurrent Neural Networks](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
-11.  [Recursive Deep Learning for Natural Language Processing and Computer Vision](http://nlp.stanford.edu/~socherr/thesis.pdf)
-12.  [Bi-directional RNN](http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf)
-13.  [LSTM](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)
-14.  [GRU - Gated Recurrent Unit](http://arxiv.org/pdf/1406.1078v3.pdf)
-15.  [GFRNN](http://arxiv.org/pdf/1502.02367v3.pdf) [.](http://jmlr.org/proceedings/papers/v37/chung15.pdf) [.](http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf)
-16.  [LSTM: A Search Space Odyssey](http://arxiv.org/pdf/1503.04069v1.pdf)
-17.  [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019v1.pdf)
-18.  [Visualizing and Understanding Recurrent Networks](http://arxiv.org/pdf/1506.02078v1.pdf)
-19.  [Wojciech Zaremba, Ilya Sutskever, An Empirical Exploration of Recurrent Network Architectures](http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf)
-20.  [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
-21.  [Extensions of Recurrent Neural Network Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2011/mikolov_icassp2011_5528.pdf)
-22.  [Recurrent Neural Network based Language Modeling in Meeting Recognition](http://www.fit.vutbr.cz/~imikolov/rnnlm/ApplicationOfRNNinMeetingRecognition_IS2011.pdf)
-23.  [Deep Neural Networks for Acoustic Modeling in Speech Recognition](http://cs224d.stanford.edu/papers/maas_paper.pdf)
-24.  [Speech Recognition with Deep Recurrent Neural Networks](http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf)
-25.  [Reinforcement Learning Neural Turing Machines](http://arxiv.org/pdf/1505.00521v1)
-26.  [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
+10. [Training Recurrent Neural Networks](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+11. [Recursive Deep Learning for Natural Language Processing and Computer Vision](http://nlp.stanford.edu/~socherr/thesis.pdf)
+12. [Bi-directional RNN](http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf)
+13. [LSTM](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)
+14. [GRU - Gated Recurrent Unit](http://arxiv.org/pdf/1406.1078v3.pdf)
+15. [GFRNN](http://arxiv.org/pdf/1502.02367v3.pdf) [.](http://jmlr.org/proceedings/papers/v37/chung15.pdf) [.](http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf)
+16. [LSTM: A Search Space Odyssey](http://arxiv.org/pdf/1503.04069v1.pdf)
+17. [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019v1.pdf)
+18. [Visualizing and Understanding Recurrent Networks](http://arxiv.org/pdf/1506.02078v1.pdf)
+19. [Wojciech Zaremba, Ilya Sutskever, An Empirical Exploration of Recurrent Network Architectures](http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf)
+20. [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
+21. [Extensions of Recurrent Neural Network Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2011/mikolov_icassp2011_5528.pdf)
+22. [Recurrent Neural Network based Language Modeling in Meeting Recognition](http://www.fit.vutbr.cz/~imikolov/rnnlm/ApplicationOfRNNinMeetingRecognition_IS2011.pdf)
+23. [Deep Neural Networks for Acoustic Modeling in Speech Recognition](http://cs224d.stanford.edu/papers/maas_paper.pdf)
+24. [Speech Recognition with Deep Recurrent Neural Networks](http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf)
+25. [Reinforcement Learning Neural Turing Machines](http://arxiv.org/pdf/1505.00521v1)
+26. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
 27. [Google - Sequence to Sequence  Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 28. [Memory Networks](http://arxiv.org/pdf/1410.3916v10)
 29. [Policy Learning with Continuous Memory States for Partially Observed Robotic Control](http://arxiv.org/pdf/1507.01273v1)
@@ -142,7 +144,7 @@ For those interested we created a Deep Learning Slack
 39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
 40. [Deep Learning Recommenders papers / frameworks / libraries](https://github.com/zehsilva/recsys-deeplearning-info)
 
-
+-----
 ### Tutorials
 
 1.  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
@@ -154,7 +156,7 @@ For those interested we created a Deep Learning Slack
 7.  [Neural Networks for Matlab](http://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf)
 8.  [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 9.  [Torch7 Tutorials](https://github.com/clementfarabet/ipam-tutorials/tree/master/th_tutorials)
-10.  [The Best Machine Learning Tutorials On The Web](https://github.com/josephmisiti/machine-learning-module)
+10. [The Best Machine Learning Tutorials On The Web](https://github.com/josephmisiti/machine-learning-module)
 11. [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
 12. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 13. [More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials)
@@ -165,18 +167,18 @@ For those interested we created a Deep Learning Slack
 17. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World)
 18. [Generative Adversarial Networks](https://github.com/wiseodd/generative-models)
 
-
+-----
 ### WebSites
 
-1.  [deeplearning.net](http://deeplearning.net/)
-2.  [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
-3.  [nlp.stanford.edu](http://nlp.stanford.edu/)
-4.  [ai-junkie.com](http://www.ai-junkie.com/ann/evolved/nnt1.html)
-5.  [cs.brown.edu/research/ai](http://cs.brown.edu/research/ai/)
-6.  [eecs.umich.edu/ai](http://www.eecs.umich.edu/ai/)
-7.  [cs.utexas.edu/users/ai-lab](http://www.cs.utexas.edu/users/ai-lab/)
-8.  [cs.washington.edu/research/ai](http://www.cs.washington.edu/research/ai/)
-9.  [aiai.ed.ac.uk](http://www.aiai.ed.ac.uk/)
+1.   [deeplearning.net](http://deeplearning.net/)
+2.   [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
+3.   [nlp.stanford.edu](http://nlp.stanford.edu/)
+4.   [ai-junkie.com](http://www.ai-junkie.com/ann/evolved/nnt1.html)
+5.   [cs.brown.edu/research/ai](http://cs.brown.edu/research/ai/)
+6.   [eecs.umich.edu/ai](http://www.eecs.umich.edu/ai/)
+7.   [cs.utexas.edu/users/ai-lab](http://www.cs.utexas.edu/users/ai-lab/)
+8.   [cs.washington.edu/research/ai](http://www.cs.washington.edu/research/ai/)
+9.   [aiai.ed.ac.uk](http://www.aiai.ed.ac.uk/)
 10.  [www-aig.jpl.nasa.gov](http://www-aig.jpl.nasa.gov/)
 11.  [csail.mit.edu](http://www.csail.mit.edu/)
 12.  [cgi.cse.unsw.edu.au/~aishare](http://cgi.cse.unsw.edu.au/~aishare/)
@@ -194,6 +196,7 @@ For those interested we created a Deep Learning Slack
 24.  [Deep Learning News](http://news.startup.ml/)
 25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
 
+-----
 ### Datasets
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
@@ -314,6 +317,7 @@ For those interested we created a Deep Learning Slack
 135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
 136. [Open Images dataset](https://github.com/openimages/dataset) - Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
 
+-----
 ### Frameworks
 
 1.  [Caffe](http://caffe.berkeleyvision.org/)  
@@ -326,44 +330,45 @@ For those interested we created a Deep Learning Slack
 7.  [DeepLearning4J](http://deeplearning4j.org/)
 8.  [Brain](https://github.com/harthur/brain)
 9.  [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox)
-10.  [Deepnet](https://github.com/nitishsrivastava/deepnet)
-11.  [Deeppy](https://github.com/andersbll/deeppy)
-12.  [JavaNN](https://github.com/ivan-vasilev/neuralnetworks)
-13.  [hebel](https://github.com/hannes-brt/hebel)
-14.  [Mocha.jl](https://github.com/pluskid/Mocha.jl)
-15.  [OpenDL](https://github.com/guoding83128/OpenDL)
-16.  [cuDNN](https://developer.nvidia.com/cuDNN)
-17.  [MGL](http://melisgl.github.io/mgl-pax-world/mgl-manual.html)
-18.  [Knet.jl](https://github.com/denizyuret/Knet.jl)
-19.  [Nvidia DIGITS - a web app based on Caffe](https://github.com/NVIDIA/DIGITS)
-20.  [Neon - Python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
-21.  [Keras - Theano based Deep Learning Library](http://keras.io)
-22.  [Chainer - A flexible framework of neural networks for deep learning](http://chainer.org/)
-23.  [RNNLM Toolkit](http://rnnlm.org/)
-24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
-25.  [char-rnn](https://github.com/karpathy/char-rnn)
-26.  [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet)
-27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU](https://github.com/dmlc/minerva)
-28.  [Brainstorm - Fast, flexible and fun neural networks.](https://github.com/IDSIA/brainstorm)
-29.  [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
-30.  [DMTK - Microsoft Distributed Machine Learning Tookit](https://github.com/Microsoft/DMTK)
-31.  [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow)
-32.  [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/dmlc/mxnet/)
-33.  [Veles - Samsung Distributed machine learning platform](https://github.com/Samsung/veles)
-34.  [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework](https://github.com/PrincetonVision/marvin)
-35.  [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
-36.  [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne)
-37.  [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet)
-38.  [mlpack - A scalable Machine Learning library](http://mlpack.org/)
-39.  [Torchnet - Torch based Deep Learning Library](https://github.com/torchnet/torchnet)
-40.  [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
-41.  [NeuPy - Theano based Python library for ANN and Deep Learning](http://neupy.com)
-42.  [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne)
-43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne](https://github.com/dnouri/nolearn)
-44.  [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet)
-45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
-46.  [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
+10. [Deepnet](https://github.com/nitishsrivastava/deepnet)
+11. [Deeppy](https://github.com/andersbll/deeppy)
+12. [JavaNN](https://github.com/ivan-vasilev/neuralnetworks)
+13. [hebel](https://github.com/hannes-brt/hebel)
+14. [Mocha.jl](https://github.com/pluskid/Mocha.jl)
+15. [OpenDL](https://github.com/guoding83128/OpenDL)
+16. [cuDNN](https://developer.nvidia.com/cuDNN)
+17. [MGL](http://melisgl.github.io/mgl-pax-world/mgl-manual.html)
+18. [Knet.jl](https://github.com/denizyuret/Knet.jl)
+19. [Nvidia DIGITS - a web app based on Caffe](https://github.com/NVIDIA/DIGITS)
+20. [Neon - Python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
+21. [Keras - Theano based Deep Learning Library](http://keras.io)
+22. [Chainer - A flexible framework of neural networks for deep learning](http://chainer.org/)
+23. [RNNLM Toolkit](http://rnnlm.org/)
+24. [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
+25. [char-rnn](https://github.com/karpathy/char-rnn)
+26. [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet)
+27. [Minerva - a fast and flexible tool for deep learning on multi-GPU](https://github.com/dmlc/minerva)
+28. [Brainstorm - Fast, flexible and fun neural networks.](https://github.com/IDSIA/brainstorm)
+29. [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
+30. [DMTK - Microsoft Distributed Machine Learning Tookit](https://github.com/Microsoft/DMTK)
+31. [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow)
+32. [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/dmlc/mxnet/)
+33. [Veles - Samsung Distributed machine learning platform](https://github.com/Samsung/veles)
+34. [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework](https://github.com/PrincetonVision/marvin)
+35. [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
+36. [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne)
+37. [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet)
+38. [mlpack - A scalable Machine Learning library](http://mlpack.org/)
+39. [Torchnet - Torch based Deep Learning Library](https://github.com/torchnet/torchnet)
+40. [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
+41. [NeuPy - Theano based Python library for ANN and Deep Learning](http://neupy.com)
+42. [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne)
+43. [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne](https://github.com/dnouri/nolearn)
+44. [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet)
+45. [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
+46. [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
 
+-----
 ### Miscellaneous
 
 1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
@@ -373,7 +378,7 @@ For those interested we created a Deep Learning Slack
 5.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
 6.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
 8.  [gfx.js](https://github.com/clementfarabet/gfx.js)
-9. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+9.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
 10. [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 11. [Misc from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
 12. [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
