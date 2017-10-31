@@ -45,5 +45,7 @@ Week 5
 
 Variational Autoencoders -
        1) - https://www.youtube.com/watch?v=weipjHmkCHk
+       
        2) - http://homepages.ecs.vuw.ac.nz/~harry/variational_autoencoders.pdf
+       
        3) - https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
