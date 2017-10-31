@@ -49,3 +49,12 @@ Variational Autoencoders -
       2) http://homepages.ecs.vuw.ac.nz/~harry/variational_autoencoders.pdf
        
       3) https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+
+1) Tensorflow Tutorial - 
+    a) https://www.datacamp.com/community/tutorials/tensorflow-tutorial#gs.w5Fxj80
+
+    b) https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&time_continue=866&v=pnSBZ6TEVjY
+    
+    c) https://www.tensorflow.org/get_started/mnist/beginners
+    
+    d) http://adventuresinmachinelearning.com/python-tensorflow-tutorial/
