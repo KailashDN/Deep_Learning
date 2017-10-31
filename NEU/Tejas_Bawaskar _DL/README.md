@@ -29,3 +29,14 @@ Autoencoders -
    c) https://medium.com/towards-data-science/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad
                
    d) http://www.shogun-toolbox.org/static/notebook/current/autoencoders.html
+
+Week 4
+
+Running Jupyter Notebook on Google Cloud Platform with GPUs
+       - https://medium.com/towards-data-science/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
+
+Visualizations -
+       - https://colah.github.io/posts/2015-01-Visualizing-Representations/
+
+t-SNE's Data Visualization - 
+       - https://deeplearning4j.org/tsne-visualization
