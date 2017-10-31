@@ -32,29 +32,20 @@ Autoencoders -
 
 Week 4
 
-Running Jupyter Notebook on Google Cloud Platform with GPUs - 
-       1) https://medium.com/towards-data-science/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
+1) Running Jupyter Notebook on Google Cloud Platform with GPUs - 
+       https://medium.com/towards-data-science/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
 
-Visualizations -
-       1) https://colah.github.io/posts/2015-01-Visualizing-Representations/
+2) Visualizations -
+       https://colah.github.io/posts/2015-01-Visualizing-Representations/
 
-t-SNE's Data Visualization - 
-       1) https://deeplearning4j.org/tsne-visualization
+3) t-SNE's Data Visualization - 
+       https://deeplearning4j.org/tsne-visualization
 
 Week 5 
 
 1) Variational Autoencoders -
-    1) https://www.youtube.com/watch?v=weipjHmkCHk
+    a) https://www.youtube.com/watch?v=weipjHmkCHk
        
-    2) http://homepages.ecs.vuw.ac.nz/~harry/variational_autoencoders.pdf
+    b) http://homepages.ecs.vuw.ac.nz/~harry/variational_autoencoders.pdf
        
-    3) https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
-
-1) Tensorflow Tutorial - 
-    a) https://www.datacamp.com/community/tutorials/tensorflow-tutorial#gs.w5Fxj80
-
-    b) https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&time_continue=866&v=pnSBZ6TEVjY
-    
-    c) https://www.tensorflow.org/get_started/mnist/beginners
-    
-    d) http://adventuresinmachinelearning.com/python-tensorflow-tutorial/
+    c) https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
