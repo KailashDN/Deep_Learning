@@ -195,6 +195,7 @@ For those interested we created a Deep Learning Slack
 23.  [www.mpi-inf.mpg.de/departments/computer-vision...](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/)
 24.  [Deep Learning News](http://news.startup.ml/)
 25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
+26.  [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 
 -----
 ### Datasets

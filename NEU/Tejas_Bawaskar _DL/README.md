@@ -32,11 +32,20 @@ Autoencoders -
 
 Week 4
 
-Running Jupyter Notebook on Google Cloud Platform with GPUs - 
-       1) https://medium.com/towards-data-science/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
+1) Running Jupyter Notebook on Google Cloud Platform with GPUs - 
+       https://medium.com/towards-data-science/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
 
-Visualizations -
-       1) https://colah.github.io/posts/2015-01-Visualizing-Representations/
+2) Visualizations -
+       https://colah.github.io/posts/2015-01-Visualizing-Representations/
 
-t-SNE's Data Visualization - 
-       1) https://deeplearning4j.org/tsne-visualization
+3) t-SNE's Data Visualization - 
+       https://deeplearning4j.org/tsne-visualization
+
+Week 5 
+
+1) Variational Autoencoders -
+    a) https://www.youtube.com/watch?v=weipjHmkCHk
+       
+    b) http://homepages.ecs.vuw.ac.nz/~harry/variational_autoencoders.pdf
+       
+    c) https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
