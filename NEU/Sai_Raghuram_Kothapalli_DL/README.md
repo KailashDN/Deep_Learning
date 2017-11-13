@@ -26,15 +26,15 @@ a. Basics of RBMs and its comparison with Autoencoders
             
 Links https://deeplearning4j.org/restrictedboltzmannmachine
                     
-  http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/
+http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/
             
             
 b. Implementation of Autoecoders (code will be up in 2-3 day)
  Links - http://www.deeplearningbook.org/contents/autoencoders.html
                     
-    https://towardsdatascience.com/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad
+https://towardsdatascience.com/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad
                     
-     https://deeplearning4j.org/deepautoencoder
+https://deeplearning4j.org/deepautoencoder
             
  c. Implementation of RBMs in TF on a dataset from Kaggle - Creditcard fraud detection (code will be up in 2-3 days)
             
@@ -44,4 +44,4 @@ b. Implementation of Autoecoders (code will be up in 2-3 day)
 WEEK 5 ->   
 a. Variational Autoencoders - https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/
                                           
-  http://kvfrans.com/variational-autoencoders-explained/
+http://kvfrans.com/variational-autoencoders-explained/
