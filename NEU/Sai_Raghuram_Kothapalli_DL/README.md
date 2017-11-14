@@ -29,7 +29,7 @@ Links https://deeplearning4j.org/restrictedboltzmannmachine
 http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/
             
             
-b. Implementation of Autoecoders (code will be up in 2-3 day)
+b. Implementation of Autoecoders
  Links - http://www.deeplearningbook.org/contents/autoencoders.html
                     
 https://towardsdatascience.com/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad
