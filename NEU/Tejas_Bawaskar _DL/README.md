@@ -77,8 +77,10 @@ Week 7
      a) http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf
      
      b) https://www.youtube.com/watch?v=AgkfIQ4IGaM&feature=youtu.be
-     
- 2) Visualization of weights and images through layers
+
+Week 9 
+
+ 1) Visualization of weights and images through layers
      a) https://www.youtube.com/watch?v=5tW3y7lm7V0
      
      b) https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59
